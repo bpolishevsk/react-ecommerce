@@ -27,6 +27,3 @@ setup your config.js file (secret JWT & Mongo URI)
 - cached DB for fast results
 - filters combinables bewteen each other 
 - validators
-
-## Other projects
-Wanna play with react and SVG/CSS animations? https://github.com/NielsDom/react-countries / [DEMO](https://countries-389d9.firebaseapp.com/)
